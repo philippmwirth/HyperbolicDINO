@@ -1,0 +1,6 @@
+[submodule "hyperbolic-image-embeddings"]
+	path = hyperbolic-image-embeddings
+	url = https://github.com/philippmwirth/hyperbolic-image-embeddings.git
+[submodule "lightly"]
+	path = lightly
+	url = https://github.com/lightly-ai/lightly.git
